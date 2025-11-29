@@ -62,9 +62,26 @@ ReGen-DF/
 
 ## 🖼️ Sample Images
 
-| Type            | Example (thumbnail) |
+| Type            | Sample |
 |-----------------|---------------------|
-| T2I - seedream  | <img src="assets/examples/seedream_001.png" width="120"/> |
-| T2I - kling     | <img src="assets/examples/kling_001.png" width="120"/>    |
-| T2I - wan       | <img src="assets/examples/wan_001.png" width="120"/>      |
-| Reenactment     | <img src="assets/examples/reenact_001.png" width="120"/>  |
+| T2I - seedream  | <img src="assets/samples/seedream_001.png" width="120"/> |
+| T2I - kling     | <img src="assets/samples/kling_001.png" width="120"/>    |
+| T2I - wan       | <img src="assets/samples/wan_001.png" width="120"/>      |
+| T2I - flux       | <img src="assets/samples/wan_001.png" width="120"/>      |
+| T2I - imagen       | <img src="assets/samples/wan_001.png" width="120"/>      |
+| T2V (basic) - kling       | <img src="assets/samples/wan_001.png" width="120"/>      |
+| T2V (lipsync) - kling       | <img src="assets/samples/wan_001.png" width="120"/>      |
+| Face Reenactment    | <img src="assets/samples/reenact_001.png" width="120"/>  |
+
+## ✏️ Citation
+
+If you use **ReGen-DF** in your research or project, please cite it as follows:
+
+```bibtex
+@dataset{regen_df_2025,
+  title        = {ReGen-DF: Reenactment \& Generation DeepFake Face Dataset},
+  author       = {Jinseok Kim, Uihyeon Maeng, Heejung Jang, Suyeon Myeong},
+  year         = {2025},
+  howpublished = {GitHub and Google Drive},
+  note         = {Available at \url{https://github.com/YOUR_USERNAME/ReGen-DF}}
+}
