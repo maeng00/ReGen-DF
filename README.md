@@ -10,7 +10,7 @@ The goal of ReGen-DF is to provide a realistic and diverse benchmark for **deepf
 
 ---
 
-## 📦 Dataset Download
+## Dataset Download
 
 The dataset is publicly available via Google Drive:
 
@@ -21,7 +21,7 @@ The dataset is publicly available via Google Drive:
 
 ---
 
-## 🔍 Key Characteristics
+## Key Characteristics
 
 - **Hybrid Generation Pipelines**
   - **T2I-generated faces** from multiple state-of-the-art models  
@@ -39,7 +39,23 @@ The dataset is publicly available via Google Drive:
 
 ---
 
-## 📁 Dataset Structure
+## License & Usage
+
+The ReGen-DF dataset is released under the  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+- You **may** use, share, and adapt the dataset **for non-commercial research purposes only**.
+- You **must** provide appropriate credit to the authors.
+- If you create derivatives or adapted versions of this dataset, you **must distribute them under the same license** (CC BY-NC-SA 4.0 or a compatible license).
+- Any **commercial use is not permitted** without explicit permission from the authors.
+
+-> For the full legal text, please refer to **`license.txt`** in this repository  
+and the Creative Commons page:  
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
+## Dataset Structure
 
 The dataset is organized as follows (example structure):
 
@@ -60,20 +76,24 @@ ReGen-DF/
    └─ ...
 ```
 
-## 🖼️ Sample Images
+---
+
+## Sample Images
 
 | Type            | Sample |
 |-----------------|---------------------|
-| T2I - seedream  | <img src="assets/samples/seedream_001.png" width="120"/> |
-| T2I - kling     | <img src="assets/samples/kling_001.png" width="120"/>    |
-| T2I - wan       | <img src="assets/samples/wan_001.png" width="120"/>      |
-| T2I - flux       | <img src="assets/samples/wan_001.png" width="120"/>      |
-| T2I - imagen       | <img src="assets/samples/wan_001.png" width="120"/>      |
-| T2V (basic) - kling       | <img src="assets/samples/wan_001.png" width="120"/>      |
-| T2V (lipsync) - kling       | <img src="assets/samples/wan_001.png" width="120"/>      |
-| Face Reenactment    | <img src="assets/samples/reenact_001.png" width="120"/>  |
+| T2I - seedream  | <img src="assets/samples/seedream_face_example.png" width="250"/> |
+| T2I - kling     | <img src="assets/samples/kling_face_example.png" width="250"/>    |
+| T2I - wan       | <img src="assets/samples/wan_face_example.png" width="250"/>      |
+| T2I - flux       | <img src="assets/samples/flux_face_example.jpg" width="250"/>      |
+| T2I - imagen       | <img src="assets/samples/imagen_face_example.jpg" width="200"/>      |
+| T2V (basic) - kling       | <img src="assets/samples/kling_video_example.gif" width="250"/>      |
+| T2V (lipsync) - kling       | <img src="assets/samples/kling_video_lipsync_example.gif" width="250"/>      |
+| Face Reenactment    | <img src="assets/samples/emotions_happy.png" width="150"/> <img src="assets/samples/emotions_sad.png" width="150"/>  |
 
-## ✏️ Citation
+---
+
+## Citation
 
 If you use **ReGen-DF** in your research or project, please cite it as follows:
 
