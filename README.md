@@ -58,4 +58,13 @@ ReGen-DF/
    ├─ output_emotions_15000 (1480)/
    ├─ output_emotions_16000 (1481)/ 
    └─ ...
+```
 
+## 🖼️ Sample Images
+
+| Type            | Example (thumbnail) |
+|-----------------|---------------------|
+| T2I - seedream  | <img src="assets/examples/seedream_001.png" width="120"/> |
+| T2I - kling     | <img src="assets/examples/kling_001.png" width="120"/>    |
+| T2I - wan       | <img src="assets/examples/wan_001.png" width="120"/>      |
+| Reenactment     | <img src="assets/examples/reenact_001.png" width="120"/>  |
