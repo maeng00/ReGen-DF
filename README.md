@@ -103,5 +103,5 @@ If you use **ReGen-DF** in your research or project, please cite it as follows:
   author       = {Jinseok Kim, Uihyeon Maeng, Heejung Jang, Suyeon Myeong},
   year         = {2025},
   howpublished = {GitHub and Google Drive},
-  note         = {Available at \url{https://github.com/YOUR_USERNAME/ReGen-DF}}
+  note         = {Available at \url{https://github.com/maeng00/ReGen-DF}}
 }
