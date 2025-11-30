@@ -99,7 +99,7 @@ If you use **ReGen-DF** in your research or project, please cite it as follows:
 
 ```bibtex
 @dataset{regen_df_2025,
-  title        = {ReGen-DF: Reenactment \& Generation DeepFake Face Dataset},
+  title        = {ReGen-DF: Reenactment & Generation DeepFake Face Dataset},
   author       = {Jinseok Kim, Uihyeon Maeng, Heejung Jang, Suyeon Myeong},
   year         = {2025},
   howpublished = {GitHub and Google Drive},
