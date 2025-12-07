@@ -1,4 +1,4 @@
-# ReGen-DF: Reenactment & Generation DeepFake Face Dataset
+# ReGen-DF: Reenactment & Generation DeepFake Face Dataset 
 
 ReGen-DF is a **hybrid deepfake face dataset** that combines:
 
