@@ -6,7 +6,7 @@ ReGen-DF is a **hybrid deepfake face dataset** that combines:
   (e.g., *seedream, kling, wan,* and other diffusion-based T2I models), and  
 - **Face reenactment–based forgeries** built on top of **FFHQ real face images** using an AILab platform.
 
-The goal of ReGen-DF is to provide a realistic and diverse benchmark for **deepfake detection**, **face forgery analysis**, and **robustness evaluation** under multiple generation pipelines!
+The goal of ReGen-DF is to provide a realistic and diverse benchmark for **deepfake detection**, **face forgery analysis**, and **robustness evaluation** under multiple generation pipelines.
 
 ---
 
